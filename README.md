@@ -18,3 +18,8 @@ Also works with decimals:
 
 - 5.6k => 5,600 NP
 - 99.9k => 99,000 NP
+
+
+# Attention
+
+## This could be seen as cheating, since it allows you to input faster than other users, if you're going to restock you should probably disable this userscript
