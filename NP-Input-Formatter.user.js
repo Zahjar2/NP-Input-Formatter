@@ -11,8 +11,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=neopets.com
 // @run-at       document-end
 // @grant        none
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/Zahjar2/NP-Input-Formatter/blob/main/NP-Input-Formatter.user.js
+// @downloadURL  https://github.com/Zahjar2/NP-Input-Formatter/blob/main/NP-Input-Formatter.user.js
 // ==/UserScript==
 
 /*
